@@ -35,8 +35,8 @@ Aplikasi absensi berbasis web untuk pencatatan kehadiran karyawan secara **Clock
 ### 1. Clone repository
 
 ```
-git clone https://github.com/username/nama-repository.git
-cd nama-repository
+git clone https://github.com/Imamsalji/absensi_karyawan.git
+cd absensi_karyawan
 ```
 
 ### 2. Install composer dependency
