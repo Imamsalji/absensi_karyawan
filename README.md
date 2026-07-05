@@ -6,11 +6,11 @@ Aplikasi absensi berbasis web untuk pencatatan kehadiran karyawan secara **Clock
 
 ## 🚀 Teknologi yang Digunakan
 
-* Laravel 10
-* Laravel Breeze Authentication (Blade)
-* MySQL
-* NodeJS + Vite
-* Bootstrap 5
+- Laravel 10 imam
+- Laravel Breeze Authentication (Blade)
+- MySQL
+- NodeJS + Vite
+- Bootstrap 5
 
 ---
 
@@ -119,10 +119,10 @@ password: password123
 
 ## 💡 Rencana Pengembangan
 
-* Export PDF & Excel
-* Rekap bulanan otomatis
-* Lokasi GPS
-* Integrasi Payroll
+- Export PDF & Excel
+- Rekap bulanan otomatis
+- Lokasi GPS
+- Integrasi Payroll
 
 ---
 
